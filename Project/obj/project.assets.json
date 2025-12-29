@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/APP/APP/MyApp.csproj",
-      "projectName": "MyApp",
-      "projectPath": "/workspaces/APP/APP/MyApp.csproj",
+      "projectUniqueName": "/workspaces/APP/Project/Project.csproj",
+      "projectName": "Project",
+      "projectPath": "/workspaces/APP/Project/Project.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/APP/APP/obj/",
+      "outputPath": "/workspaces/APP/Project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
