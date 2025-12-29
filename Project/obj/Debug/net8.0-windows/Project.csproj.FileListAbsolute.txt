@@ -1,0 +1,5 @@
+/workspaces/APP/Project/obj/Debug/net8.0-windows/Project.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/APP/Project/obj/Debug/net8.0-windows/Project.AssemblyInfoInputs.cache
+/workspaces/APP/Project/obj/Debug/net8.0-windows/Project.AssemblyInfo.cs
+/workspaces/APP/Project/obj/Debug/net8.0-windows/Project.csproj.CoreCompileInputs.cache
+/workspaces/APP/Project/obj/Debug/net8.0-windows/Project.sourcelink.json
